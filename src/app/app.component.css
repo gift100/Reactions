@@ -1,0 +1,34 @@
+.spaceOnTop {
+    margin-top: 5%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.dropdown-menu {
+    border-radius: 40px;
+}
+
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
+
+.dropdown-items>a>.fa-heart, .list-group-item .fa-heart {
+    color: rgb(231, 79, 104);  
+}
+
+.dropdown-items>a>.fa-thumbs-up, .list-group-item .fa-thumbs-up  {
+    color: blue;
+}
+
+.dropdown-items>a>.fa-thumbs-down, .list-group-item .fa-thumbs-down {
+    color: red;
+}
+.dropdown-items>a:hover {
+    background:none;
+    color:inherit;
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}

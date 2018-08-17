@@ -4,17 +4,20 @@ import { HttpClientModule } from '@angular/common/http';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
+import { PicturesService } from './services/pictures.service';
+import { TitleCasePipe } from './title-case.pipe';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    TitleCasePipe
   ],
   imports: [
     BrowserModule,
     FormsModule,
     HttpClientModule,
   ],
-  providers: [],
+  providers: [PicturesService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

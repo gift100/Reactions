@@ -1,0 +1,49 @@
+{
+    "pictures": [
+        {
+            "name": "accessories-afro-beautiful",
+            "url": "../assets/images/accessories-afro-beautiful-935985.jpg",
+            "reactions": {
+                "like": 0,
+                "love": 0,
+                "dislike": 0
+            }
+        },
+        {
+            "name": "adult-african-blur",
+            "url": "../assets/images/adult-african-blur-813940.jpg",
+            "reactions": {
+                "like": 20,
+                "love": 1,
+                "dislike": 0
+            }
+        },
+        {
+            "name": "affection-attractive-beautiful",
+            "url": "../assets/images/affection-attractive-beautiful-1139037.jpg",
+            "reactions": {
+                "like": 10,
+                "love": 25,
+                "dislike": 2
+            }
+        },
+        {
+            "name": "afro-beautiful-blur",
+            "url": "../assets/images/afro-beautiful-blur-1139245.jpg",
+            "reactions": {
+                "like": 10,
+                "love": 3,
+                "dislike": 0
+            }
+        },
+        {
+            "name": "barefoot-clothes-community",
+            "url": "../assets/images/barefoot-clothes-community-936112.jpg",
+            "reactions": {
+                "like": 50,
+                "love": 60,
+                "dislike": 0
+            }
+        }
+    ]
+}
